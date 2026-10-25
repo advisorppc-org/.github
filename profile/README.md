@@ -2,7 +2,7 @@
 
 # AdvisorPPC
 
-Google Ads, analytics and SEO work inside Claude and ChatGPT, approved by you.
+Google Ads, analytics and SEO inside every major AI: Claude, ChatGPT, Gemini, Grok and any MCP client. You approve every change.
 
 - **AdvisorPPC**: [advisorppc.com](https://advisorppc.com). Connect Google Ads, GA4, Search Console, Tag Manager and YouTube to Claude.
 - **AdvisorSEO**: [advisorseo.ai](https://advisorseo.ai). Keyword, content and site reviews for your website.
