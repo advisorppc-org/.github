@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.png" alt="AdvisorPPC" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/advisorppc-org/.github/main/profile/banner.png" alt="AdvisorPPC" width="100%"></p>
 
 # AdvisorPPC
 
